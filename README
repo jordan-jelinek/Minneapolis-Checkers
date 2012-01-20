@@ -1,0 +1,23 @@
+Minneapolis Checkers v0.01 (a Computer Science Collaboration Production)
+
+People interested in participating in this project are welcome to add their name to the roster. Also, if you so desire, you may use a three character avatar next to your name as I have below.
+
+<~> Jordan Jelinek (lead developer)
+??? Your Name (your role)
+
+This is v0.01 which means it is the first edition of the 0th iteration. When this iteration is complet, it will progress into the next iteration, and we'll be on 0.10, and so on ...
+
+IMPORTANT! All includes will have a .h for the definitions, and a .cpp for the implementation. For this iteration, that means four include files total. ~
+
+game.h, game.cpp, menu.h, menu.cpp
+
+~ The 0th iteration will be all procedural coding. There will be an opening game menu ~
+
+1> Start Game
+2> Quit Game
+
+~ with optional character art.
+
+The menu leads to the game. Once the game is complete, the code will congratulate the winner, and then return to the game menu.
+
+Further iterations will utilize classes, and events.
